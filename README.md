@@ -16,7 +16,6 @@ Right now I'm:
 
 **Pathway** · An iOS app for keeping track of college applications, with a shared plan so parents and students can stay in sync. Swift, SwiftUI, Firebase.
 
-**Dressed** · Imports outfits from photos, Instagram, or Pinterest and shows them on a 3D avatar. ARKit, RealityKit, Core ML, Gemini.
 
 ### What I work with
 
