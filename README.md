@@ -11,12 +11,12 @@
 $ whoami
 sophia abanador · cs @ georgia tech · threads: ai, systems & architecture
 
-$ cat now.txt
+$ now.txt
 - research in the munmun lab (ai safety + youth mental health)
 - building lablink, a research-lab matcher for gt students
 - ar outfit app with gt ios club
 
-$ cat interests.txt
+$ interests.txt
 adversarial ml, ai code-gen security, adaptive systems, applied nlp/cv
 ```
 
@@ -26,8 +26,8 @@ adversarial ml, ai code-gen security, adaptive systems, applied nlp/cv
 |---|---|
 | [**lablink**](https://lab-link-co.vercel.app/) | reads your resume and suggests gt research labs that fit. `next.js` `tailwind` `openai` |
 | [**ayosai**](https://ayosai.vercel.app/) | personal finance assistant, 450+ users on 4 continents. `next.js` `openai` |
+| [**flourish**](https://flourish-co.vercel.app/) | college admissions guides built on insider interviews with current students, 50+ students helped. `next.js` |
 | **pathway** | ios app for tracking college apps, with a shared parent/student plan. `swiftui` `firebase` |
-| **dressed** | imports outfits from photos and socials and puts them on an ar avatar. `arkit` `core ml` `gemini` |
 
 ### ~/stack
 
