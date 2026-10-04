@@ -1,119 +1,68 @@
-<!-- Replace every YOUR_GITHUB_USERNAME, YOUR_LINKEDIN, YOUR_PORTFOLIO_URL, YOUR_EMAIL placeholder before committing -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=190&section=header&text=Hi,%20I'm%20Sophia%20👋&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=CS%20@%20Georgia%20Tech%20%7C%20AI%20%2B%20Systems&descAlignY=58&descSize=16" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=200&section=header&text=Sophia%20Abanador&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%40%20Georgia%20Tech&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Sophia Abanador banner" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=7F5AF0&center=true&vCenter=true&width=560&lines=Full-stack+%26+iOS+developer;Building+AI-powered+products;Exploring+adversarial+ML+%26+AI+safety;Co-founder+of+LabLink+%7C+Founder+of+AyosAI" />
+</p>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=640&lines=Building+at+the+intersection+of+AI%2C+product+%26+design;Making+complex+things+easier+to+use;Currently+shipping+LabLink+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-![Georgia Tech](https://img.shields.io/badge/Georgia_Tech-B3A369?style=for-the-badge&logo=gatech&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-AI%2FML-1d4ed8?style=for-the-badge)
-![Full Stack](https://img.shields.io/badge/Full--Stack-Developer-06b6d4?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Building-22c55e?style=for-the-badge)
-
-</div>
-
----
-
-## `> whoami`
-
-```ts
-const sophia = {
-  school: "Georgia Tech",
-  major: "Computer Science",
-  focus: ["AI/ML", "Full-Stack Development", "Product Design"],
-  currently: "Building LabLink",
-  mission: "Make complex things easier to use",
-};
-```
+<p align="center">
+  <a href="https://linkedin.com/in/sophia-abanador"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aabanador3@gatech.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://lab-link-co.vercel.app/"><img src="https://img.shields.io/badge/LabLink-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://ayosai.vercel.app/"><img src="https://img.shields.io/badge/AyosAI-2CB67D?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🛰️ Currently
+### 👩‍💻 About me
 
-| | |
-|---|---|
-| 🔨 **Building** | LabLink |
-| 🧠 **Exploring** | AI/ML + full-stack development |
-| 🎯 **Working on** | Projects that make complex things easier to use |
+- 🎓 B.S. Computer Science at **Georgia Tech** (Class of 2029), Threads: **Artificial Intelligence** and **Systems & Architecture**
+- 🔬 Undergraduate Research Assistant in the **Munmun Lab**, working on AI safety and youth mental health
+- 🚀 Building **LabLink**, an AI platform that matches Georgia Tech students with research labs
+- 📱 iOS developer with **GT iOS Club**, working on an AR + Core ML outfit app
+- 🧠 Interested in adaptive/ML-driven systems, adversarial ML, AI code-gen security, and applied NLP/CV
+- 🤖 Former VEX Worlds competitor and robotics mentor
 
----
-
-## 🚀 Selected Work
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🔬 LabLink</h3>
-      <p>AI-powered platform connecting Georgia Tech students with research labs.</p>
-      <sub><code>AI</code> · <code>Full-Stack</code></sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>💸 AyosAI</h3>
-      <p>AI-powered financial literacy platform helping people make smarter financial decisions.</p>
-      <sub><code>AI</code> · <code>FinTech</code></sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🧭 Pathway</h3>
-      <p>A SwiftUI college planning experience for students and families.</p>
-      <sub><code>SwiftUI</code> · <code>iOS</code></sub>
-    </td>
-  </tr>
-</table>
-
-> 📌 Tip: link each project by wrapping its title, e.g. `<h3><a href="YOUR_REPO_URL">🔬 LabLink</a></h3>`
-
----
-
-## 🧰 Tech Stack
+### 🛠️ Tech stack
 
 **Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,html,css,swift&perline=8" />
+</p>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+**Frameworks & Libraries**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vue,svelte,tailwind&perline=8" />
+</p>
 
-**Frameworks**
+**Data, Cloud & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase,git,githubactions,vercel,vscode&perline=8" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
+**AI / ML:** LangChain · OpenAI API · Gemini API · Core ML · Vision · Pandas · NumPy · Streamlit · Jupyter
 
-**AI & Data**
+### 📌 Featured projects
 
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+| Project | What it does | Built with |
+|---------|--------------|------------|
+| 🔬 [**LabLink**](https://lab-link-co.vercel.app/) | Matches Georgia Tech students with research labs using LLM-powered resume analysis | Next.js, React, Tailwind, OpenAI API |
+| 💸 [**AyosAI**](https://ayosai.vercel.app/) | AI financial assistant for budgeting, saving, and investing, used by 450+ people on 4 continents | Next.js, React, Tailwind, OpenAI API |
+| 🎓 **Pathway** | iOS app for tracking college applications, with XP, streaks, and a parent/student Family Plan | Swift, SwiftUI, Firebase |
+| 👗 **Dressed** | Imports outfits from photos and social media, renders them on an AR avatar, and suggests pairings | ARKit, RealityKit, Core ML, Gemini |
 
----
+### 📊 GitHub stats
 
-## 📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sa087613&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sa087613&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sa087613&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0f172a" alt="GitHub streak" />
-
-</div>
-
----
-
-## 🔗 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=06b6d4)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:0f172a&height=100&section=footer" width="100%" alt="footer" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,100:7F5AF0&height=100&section=footer" />
+</p>
