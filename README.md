@@ -1,16 +1,28 @@
-## Hi there 👋
+Sophia Abanador
+Computer Science @ Georgia Tech
 
-<!--
-**sa087613/sa087613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software at the intersection of AI, product, and design.
 
-Here are some ideas to get you started:
+Currently
+→ Building LabLink
+→ Exploring AI/ML + full-stack development
+→ Working on projects that make complex things easier to use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Selected Work
+LabLink
+AI-powered platform connecting Georgia Tech students with research labs.
+
+AyosAI
+AI-powered financial literacy platform helping people make smarter
+financial decisions.
+
+Pathway
+A SwiftUI college planning experience for students and families.
+
+Tech
+C++ · Python · Java · TypeScript · Swift
+React · Next.js · Node.js · SwiftUI
+OpenAI API · Gemini API · PostgreSQL · MongoDB · Supabase
+
+Connect
+LinkedIn · Portfolio · Email · GitHub
