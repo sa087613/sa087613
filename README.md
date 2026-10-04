@@ -1,26 +1,49 @@
-## Hi, I'm Sophia
+```
+                    _      _
+ ___   ___   _ __  | |__  (_)  __ _
+/ __| / _ \ | '_ \ | '_ \ | | / _` |
+\__ \| (_) || |_) || | | || || (_| |
+|___/ \___/ | .__/ |_| |_||_| \__,_|
+            |_|
+```
 
-I'm a CS student at Georgia Tech (AI and Systems & Architecture threads). I like building things people actually use, mostly web apps and iOS apps with some ML inside. Lately I've been thinking a lot about how AI systems fail, especially adversarial ML and the security of AI-generated code.
+```console
+$ whoami
+sophia abanador · cs @ georgia tech · threads: ai, systems & architecture
 
-Right now I'm:
+$ cat now.txt
+- research in the munmun lab (ai safety + youth mental health)
+- building lablink, a research-lab matcher for gt students
+- ar outfit app with gt ios club
 
-- Doing research in the Munmun Lab on AI safety and youth mental health
-- Building [LabLink](https://lab-link-co.vercel.app/), which helps Georgia Tech students find research labs that fit them
-- Working on Dressed with GT iOS Club, an AR outfit app
+$ cat interests.txt
+adversarial ml, ai code-gen security, adaptive systems, applied nlp/cv
+```
 
-### Things I've built
+### ~/projects
 
-**[LabLink](https://lab-link-co.vercel.app/)** · Reads your resume and suggests Georgia Tech labs that match your skills and interests. Next.js, Tailwind, OpenAI API.
+| | |
+|---|---|
+| [**lablink**](https://lab-link-co.vercel.app/) | reads your resume and suggests gt research labs that fit. `next.js` `tailwind` `openai` |
+| [**ayosai**](https://ayosai.vercel.app/) | personal finance assistant, 450+ users on 4 continents. `next.js` `openai` |
+| **pathway** | ios app for tracking college apps, with a shared parent/student plan. `swiftui` `firebase` |
+| **dressed** | imports outfits from photos and socials and puts them on an ar avatar. `arkit` `core ml` `gemini` |
 
-**[AyosAI](https://ayosai.vercel.app/)** · A financial assistant for budgeting, saving, and investing. It's been used by 450+ people across 4 continents. Next.js, OpenAI API.
+### ~/stack
 
-**Pathway** · An iOS app for keeping track of college applications, with a shared plan so parents and students can stay in sync. Swift, SwiftUI, Firebase.
+![Python](https://img.shields.io/badge/python-1f2328?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-1f2328?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/java-1f2328?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-1f2328?style=flat-square&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-1f2328?style=flat-square&logo=swift&logoColor=white)
+![React](https://img.shields.io/badge/react-1f2328?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-1f2328?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-1f2328?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwind-1f2328?style=flat-square&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-1f2328?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-1f2328?style=flat-square&logo=firebase&logoColor=white)
+![LangChain](https://img.shields.io/badge/langchain-1f2328?style=flat-square&logo=langchain&logoColor=white)
 
+### ~/contact
 
-### What I work with
-
-<img src="https://skillicons.dev/icons?i=py,cpp,java,ts,swift,react,nextjs,nodejs,tailwind,postgres,firebase,git" />
-
-### Get in touch
-
-[LinkedIn](https://linkedin.com/in/sophia-abanador) · [aabanador3@gatech.edu](mailto:aabanador3@gatech.edu)
+[linkedin](https://linkedin.com/in/sophia-abanador) · [aabanador3@gatech.edu](mailto:aabanador3@gatech.edu)
