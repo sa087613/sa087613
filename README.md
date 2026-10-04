@@ -23,11 +23,11 @@ adversarial ml, ai code-gen security, adaptive systems, applied nlp/cv
 ### ~/projects
 
 | | |
+|---|---|
 | [**hey nellie**](https://heynellie.vercel.app/) | One-on-one AI tutoring that teaches young kids to read, write, and do math. |
 | [**lablink**](https://lab-link-co.vercel.app/) | Matching Georgia Tech students to research labs based on their resume. |
 | [**ayosai**](https://ayosai.vercel.app/) | Personal finance assistant, 450+ users on 4 continents. |
 | [**flourish**](https://flourish-co.vercel.app/) | College admissions guides built on insider interviews with current students. |
-|
 
 ### ~/stack
 
