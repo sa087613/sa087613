@@ -8,8 +8,6 @@ Right now I'm:
 - Building [LabLink](https://lab-link-co.vercel.app/), which helps Georgia Tech students find research labs that fit them
 - Working on Dressed with GT iOS Club, an AR outfit app
 
-Before college I competed at VEX Worlds and later mentored middle school robotics teams, which is where I first got hooked on programming.
-
 ### Things I've built
 
 **[LabLink](https://lab-link-co.vercel.app/)** · Reads your resume and suggests Georgia Tech labs that match your skills and interests. Next.js, Tailwind, OpenAI API.
