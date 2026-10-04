@@ -24,9 +24,9 @@ adversarial ml, ai code-gen security, adaptive systems, applied nlp/cv
 
 | | |
 |---|---|
-| [**lablink**](https://lab-link-co.vercel.app/) | reads your resume and suggests gt research labs that fit. `next.js` `tailwind` `openai` |
-| [**ayosai**](https://ayosai.vercel.app/) | personal finance assistant, 450+ users on 4 continents. `next.js` `openai` |
-| [**flourish**](https://flourish-co.vercel.app/) | college admissions guides built on insider interviews with current students, 50+ students helped. `next.js` |
+| [**lablink**](https://lab-link-co.vercel.app/) | reads your resume and suggests gt research labs that fit. |
+| [**ayosai**](https://ayosai.vercel.app/) | personal finance assistant, 450+ users on 4 continents. |
+| [**flourish**](https://flourish-co.vercel.app/) | college admissions guides built on insider interviews with current students, 50+ students helped. |
 | **pathway** | ios app for tracking college apps, with a shared parent/student plan. `swiftui` `firebase` |
 
 ### ~/stack
