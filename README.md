@@ -11,11 +11,6 @@
 $ whoami
 sophia abanador · cs @ georgia tech · threads: ai, systems & architecture
 
-$ now.txt
-- research in the munmun lab (ai safety + youth mental health)
-- building lablink, a research-lab matcher for gt students
-- ar outfit app with gt ios club
-
 $ interests.txt
 adversarial ml, ai code-gen security, adaptive systems, applied nlp/cv
 ```
